@@ -1,0 +1,19 @@
+.container {
+  width: 70%;
+  max-width: 1176px;
+  margin: auto;
+  background-color: aqua;
+  padding: 2rem;
+}
+
+.fact {
+  text-decoration: line-through;
+}
+
+.displaynone {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+}
